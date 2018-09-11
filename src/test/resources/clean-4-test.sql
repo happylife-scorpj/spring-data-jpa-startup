@@ -1,0 +1,1 @@
+delete APP_CREDIT_CHG_LN WHERE USER_ID = -1
